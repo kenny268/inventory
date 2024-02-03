@@ -15,6 +15,13 @@
 ### http://localhost:5000/verb-assesment/us-central1/getInventory
 ![image](https://github.com/kenny268/inventory/assets/57144468/b8946c55-8142-44af-9a4b-91cb9d0a2fd4)
 
+## Delete Inventory
+### http://localhost:5000/verb-assesment/us-central1/deleteInventory
+![image](https://github.com/kenny268/inventory/assets/57144468/2cc8e6ba-27bb-4d27-a520-0f112dde03f2)
+
+## After deleted
+### ### http://localhost:5000/verb-assesment/us-central1/getInventory
+![image](https://github.com/kenny268/inventory/assets/57144468/8843282a-9f41-4999-af74-c8e0332507be)
 
 
 

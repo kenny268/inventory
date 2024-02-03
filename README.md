@@ -20,8 +20,15 @@
 ![image](https://github.com/kenny268/inventory/assets/57144468/2cc8e6ba-27bb-4d27-a520-0f112dde03f2)
 
 ## After deleted
-### ### http://localhost:5000/verb-assesment/us-central1/getInventory
+### http://localhost:5000/verb-assesment/us-central1/getInventory
 ![image](https://github.com/kenny268/inventory/assets/57144468/8843282a-9f41-4999-af74-c8e0332507be)
+
+## check id if it is there after deleted 
+### http://localhost:5000/verb-assesment/us-central1/deleteInventory
+![image](https://github.com/kenny268/inventory/assets/57144468/d62dcdab-ef95-4f60-b7cb-2ae988a4409c)
+
+
+
 
 
 

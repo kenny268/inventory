@@ -1,3 +1,39 @@
+# Inventory Cloud Project
+
+Welcome to your Firebase Cloud project! This project is developed using JavaScript and Firebase Cloud Functions.
+
+## Prerequisites
+### Make sure you have the following installed:
+#### Node.js: [Download and Install Node.js](https://nodejs.org/dist/v20.11.0/node-v20.11.0-linux-x64.tar.xz)
+### Check if nodejs is ther
+  ```bash
+  node -v
+  ```
+
+## Setup
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/kenny268/inventory
+   cd inventory
+   ```
+2. **Install Dependencies:**
+   ```bash
+   npm install
+3. **Firebase Configuration:**
+   ```bash
+   1. Make sure you have a Firebase project set up: Firebase Console.
+   2. Obtain your Firebase Admin SDK credentials by going to Project Settings > Service accounts > Generate new private key.
+   3. Save the generated JSON key file securely.
+   4. Rename the JSON key file to serviceAccountKey.json.
+   5. Place the serviceAccountKey.json file in the root of your project.
+ 4. **Run Locally:**
+    ```bash
+    npm run serve
+
+
+   
+
 # ScreenShot of Postman
  ## Here is create inventory
  ### http://localhost:5000/verb-assesment/us-central1/createInventory

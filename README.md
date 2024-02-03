@@ -30,9 +30,7 @@ Welcome to your Firebase Cloud project! This project is developed using JavaScri
  4. **Run Locally:**
     ```bash
     npm run serve
-
-
-   
+    ```
 
 # ScreenShot of Postman
  ## Here is create inventory
